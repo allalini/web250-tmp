@@ -11,6 +11,7 @@
 <body>
   <?php
   echo '<h1>Hello world!</h1>';
+  echo '<p>a new line</p>';
   ?>
 </body>
 
